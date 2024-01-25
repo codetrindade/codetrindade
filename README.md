@@ -35,8 +35,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
----
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
   <p>📅 19/01/2024 </p>
@@ -49,6 +47,3 @@
   />
   <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </b>
 </p>
-
-
-
