@@ -44,10 +44,10 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/geekfabio/count.svg"
+    src="https://profile-counter.glitch.me/trindadecode/count.svg"
     alt="Número de visitantes no perfil"
   />
-  <h5><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </h5>
+  <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </b>
 </p>
 
 
